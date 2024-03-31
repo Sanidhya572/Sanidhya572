@@ -1,5 +1,6 @@
 # Hi there, I'm Sanidhya Rajguru! 👋
 I am currently pursuing my B.Tech in Computer Science and Engineering at SVVV Indore, with a specialization in Data Science in collaboration with IBM. My passion lies in leveraging data to derive insights and drive effective business decisions.
+
 ![blake-connally-B3l0g6HLxr8-unsplash](https://github.com/Sanidhya572/Sanidhya572/assets/84410647/74e244eb-3bf9-4b81-ab57-c29148819376)
 
 ## 🔭 I’m currently focusing on:
