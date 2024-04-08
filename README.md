@@ -1,8 +1,4 @@
 # Hey! I am Sanidhya Rajguru 👋
-
-![Sanidhya Rajguru](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif) <!-- Replace this with your desired GIF -->
-
-<div style="float:right; margin-left: 10px;">
   
 ## Introduction
 Hello! I'm Sanidhya Rajguru, a passionate learner currently focusing on mastering the realms of Data Analysis and Data Science. With a keen interest in unraveling insights from data and building robust solutions, I constantly strive to expand my skill set and contribute meaningfully to the field
