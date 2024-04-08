@@ -37,3 +37,28 @@ Hello! I'm Sanidhya Rajguru, a passionate learner currently focusing on masterin
 ### Communication
 ![Communication](https://img.shields.io/badge/Communication-%234169E1.svg?&style=for-the-badge&logo=Communication&logoColor=white)
 
+### Docker
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
+
+### PowerBI
+![PowerBI](https://img.shields.io/badge/PowerBI-%23F2C811.svg?&style=for-the-badge&logo=PowerBI&logoColor=white)
+
+### Excel
+![Excel](https://img.shields.io/badge/Excel-%23217346.svg?&style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### HTML
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
+
+### CSS
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
+
+### Prompt Engineering
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-%237B68EE.svg?&style=for-the-badge&logo=Prompt&logoColor=white)
+
+</div>
+
+## Get in Touch
+📧 Email: [your@email.com](mailto:your@email.com)  
+
+Feel free to reach out to me for collaborations, projects, or just to connect! Let's explore the data world together.
+
