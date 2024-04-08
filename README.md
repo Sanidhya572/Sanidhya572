@@ -10,6 +10,6 @@ Hello! I'm Sanidhya Rajguru, a passionate learner currently focusing on masterin
 </div>
 
 ## Get in Touch
-📧 Email: [your@email.com](mailto:your@email.com)  
+📧 Email: [your@email.com](sanidhyarajguru01406@gmail.com)  
 
 Feel free to reach out to me for collaborations, projects, or just to connect! Let's explore the data world together.
