@@ -1,51 +1,39 @@
-# Hi there, I'm Sanidhya Rajguru! 👋
-I am currently pursuing my B.Tech in Computer Science and Engineering at SVVV Indore, with a specialization in Data Science in collaboration with IBM. My passion lies in leveraging data to derive insights and drive effective business decisions.
+# Sanidhya Rajguru
 
-![blake-connally-B3l0g6HLxr8-unsplash](https://github.com/Sanidhya572/Sanidhya572/assets/84410647/74e244eb-3bf9-4b81-ab57-c29148819376)
+## Introduction
+Hello! I'm Sanidhya Rajguru, a passionate learner currently focusing on mastering the realms of Data Analysis and Data Science. With a keen interest in unraveling insights from data and building robust solutions, I constantly strive to expand my skill set and contribute meaningfully to the field.
 
-## 🔭 I’m currently focusing on:
+## Skills
 
-- **Python:** Proficient in Python programming language for data analysis, machine learning, and web development.
-- **Flask:** Experienced in building web applications using Flask framework.
-- **Power BI:** Skilled in creating interactive and insightful visualizations using Power BI.
-- **Excel:** Proficient in data manipulation, analysis, and visualization using Excel.
-- **Git and Github:** Familiar with version control using Git and managing projects on GitHub.
-- **Linux:** Comfortable with Linux operating system and command-line interface.
-- **Prompt Engineering:** Knowledgeable in designing intuitive and user-friendly command-line interfaces.
-- **Streamlit:** Experienced in building interactive web apps for data science projects using Streamlit.
-- **Machine Learning:** Well-versed in machine learning algorithms, model evaluation, and deployment.
+### Data Analysis
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
 
-## 🌱 I’m currently learning:
+### Machine Learning
+![Scikit-learn](https://img.shields.io/badge/Scikit_learn-%2314354C.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-- Advanced machine learning algorithms and techniques such as deep learning and natural language processing.
-- Deepening my understanding of data manipulation and preprocessing techniques for handling large and complex datasets.
+### Deep Learning
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white)
 
-## 💼 Goals:
+### Flask
+![Flask](https://img.shields.io/badge/Flask-%23000000.svg?&style=for-the-badge&logo=Flask&logoColor=white)
 
-My long-term career goal is to become a Data Scientist and contribute to corporate success by providing actionable insights and driving data-driven strategies. I aspire to work with cutting-edge technologies and collaborate with multidisciplinary teams to solve challenging business problems.
+### Data Visualization
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23013243.svg?&style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-%230769AD.svg?&style=for-the-badge&logo=Seaborn&logoColor=white)
 
-## 🚀 Interests:
+### SQL
+![SQL](https://img.shields.io/badge/SQL-%234169E1.svg?&style=for-the-badge&logo=SQL&logoColor=white)
 
-- **Hobbies:** I enjoy hitting the gym to maintain a healthy lifestyle and improve my physical fitness. I'm an avid reader, exploring various genres ranging from fiction to self-improvement. I love diving into thought-provoking podcasts that expand my knowledge and perspective on different topics. As a cricket enthusiast, I enjoy both playing and watching cricket matches. Traveling is another passion of mine, as it allows me to explore diverse cultures, cuisines, and landscapes.
+### Statistics
+![Statistics](https://img.shields.io/badge/Statistics-%234169E1.svg?&style=for-the-badge&logo=Statistics&logoColor=white)
 
-## 📫 Get in touch:
+### Problem Solving
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-%234169E1.svg?&style=for-the-badge&logo=ProblemSolving&logoColor=white)
 
-Feel free to reach out to me via [email](mailto:sanidhya.rajguru@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/sanidhya-rajguru).
+### Communication
+![Communication](https://img.shields.io/badge/Communication-%234169E1.svg?&style=for-the-badge&logo=Communication&logoColor=white)
 
-Let's connect and explore opportunities to collaborate on exciting projects!
-
-
-<!--
-**Sanidhya572/Sanidhya572** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
