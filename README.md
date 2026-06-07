@@ -98,18 +98,6 @@ End-to-end EDA on structured datasets — data cleaning, transformation, and vis
 | ☁️ AWS Cloud Infrastructure (12 Projects) — VPC, Lambda, API Gateway, S3/CloudFront, DynamoDB, IAM | Nextwork.org |
 | 🤖 Claude 101 Certification | Anthropic |
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanidhya572&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Sanidhya's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=Sanidhya572&theme=tokyonight&hide_border=true" width="48%" alt="Sanidhya's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanidhya572&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="50%" alt="Sanidhya's Top Languages" />
-</p>
 
 ---
 
