@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="YOUR_PORTFOLIO_URL_HERE">
+  <a href="https://sanidhya-rajguru-portfolio.lovable.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
 </p>
@@ -105,6 +105,6 @@ End-to-end EDA on structured datasets — data cleaning, transformation, and vis
 
 - 📧 **Email:** [rajgurusanidhya38@gmail.com](mailto:rajgurusanidhya38@gmail.com)
 - 💼 **LinkedIn:** https://www.linkedin.com/in/sanidhya-rajguru-522387253/
-- 🌐 **Portfolio:** [YOUR_PORTFOLIO_URL_HERE]
+- 🌐 **Portfolio:** https://sanidhya-rajguru-portfolio.lovable.app/
 
 > 🚀 *Open to Data Analyst, MIS Analyst, MIS Executive, and Power BI Developer roles across India — Remote · Hybrid · On-site*
