@@ -103,8 +103,8 @@ End-to-end EDA on structured datasets — data cleaning, transformation, and vis
 
 ## 📬 Let's Connect
 
-- 📧 **Email:** [sanidhyarajguru01406@gmail.com](mailto:sanidhyarajguru01406@gmail.com)
-- 💼 **LinkedIn:** [YOUR_LINKEDIN_URL_HERE]
+- 📧 **Email:** [rajgurusanidhya38@gmail.com](mailto:rajgurusanidhya38@gmail.com)
+- 💼 **LinkedIn:** https://www.linkedin.com/in/sanidhya-rajguru-522387253/
 - 🌐 **Portfolio:** [YOUR_PORTFOLIO_URL_HERE]
 
 > 🚀 *Open to Data Analyst, MIS Analyst, MIS Executive, and Power BI Developer roles across India — Remote · Hybrid · On-site*
