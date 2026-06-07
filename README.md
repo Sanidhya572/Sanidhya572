@@ -3,11 +3,11 @@
 <h3 align="center">Data Analyst &nbsp;·&nbsp; Power BI Developer &nbsp;·&nbsp; MIS Analyst</h3>
 
 <p align="center">
-  <a href="mailto:sanidhyarajguru01406@gmail.com">
+  <a href="mailto:rajgurusanidhya38@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="YOUR_LINKEDIN_URL_HERE">
+  <a href="https://www.linkedin.com/in/sanidhya-rajguru-522387253/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
