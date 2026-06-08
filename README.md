@@ -63,28 +63,28 @@ I'm a **Data Analyst and Power BI Developer** with professional experience in MI
 
 ## 📊 Featured Projects
 
-### 🔹 [HR Analytics Dashboard — Power BI](https://github.com/Sanidhya572/HR-Analytics)
+### 🔹 [HR Analytics Dashboard — Power BI](https://github.com/Sanidhya572/HR-Analytics-Dashboard-Employee-Attrition-Workforce-Insights-Power-BI-)
 Built an end-to-end HR dashboard to analyze employee attrition, department-wise performance, and workforce demographics.
 - **Tools:** Power BI · DAX · Power Query · Excel
 - **Key Features:** Attrition rate KPIs, department drill-downs, job satisfaction matrix, dynamic slicers
 
 ---
 
-### 🔹 [Sales Forecasting Dashboard — Power BI](https://github.com/Sanidhya572/Sales-Forecasting)
+### 🔹 [Sales Forecasting Dashboard — Power BI](https://github.com/Sanidhya572/SuperStore-Sales-Analytics-15-Day-Forecasting-Power-BI.git)
 Developed a sales performance and forecasting report with trend analysis, regional breakdowns, and target vs. actual tracking.
 - **Tools:** Power BI · DAX · Power Query · SQL
 - **Key Features:** Time-intelligence DAX measures, YoY comparisons, revenue trend lines, forecast visuals
 
 ---
 
-### 🔹 [IPL Analysis Dashboard — Power BI](https://github.com/Sanidhya572/IPL-Analysis)
+### 🔹 [IPL Analysis Dashboard — Power BI](https://github.com/Sanidhya572/IPL-2008-2022-Match-Ball-by-Ball-Analysis-Power-BI-Dashboard.git)
 Designed a cricket analytics dashboard using IPL match data (2008–2023) for team and player performance storytelling.
 - **Tools:** Power BI · DAX · Power Query · CSV data modeling
 - **Key Features:** Player stats leaderboard, team win-rate analysis, season-wise filtering, Orange & Purple Cap tracking
 
 ---
 
-### 🔹 [Exploratory Data Analysis — Python](https://github.com/Sanidhya572/Exploratory-Data-Analysis)
+### 🔹 [Exploratory Data Analysis — Python](https://github.com/Sanidhya572/Exploratory-Data-Analysis.git)
 End-to-end EDA on structured datasets — data cleaning, transformation, and visual storytelling using Python.
 - **Tools:** Python · Pandas · NumPy · Matplotlib · Seaborn
 - **Key Features:** Outlier detection, correlation heatmaps, distribution analysis, feature-level insights
